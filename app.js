@@ -1,7 +1,7 @@
 const app = new Vue({
     el: '#app',
     data: {
-        titulo : 'GYM con vue',
+        titulo : 'Clientes del GYM',
         tareas: [],
         nuevaTarea:""
     },
